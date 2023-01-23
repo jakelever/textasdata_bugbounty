@@ -10,6 +10,7 @@ This GitHub repo is used to track bug reports for the materials for the Text As 
 - Put enough detail in the description to clearly describe what the `bug` is.
 - You can describe multiple bugs in the same issue.
 - Please be polite when reporting your issue and in any further discussions.
+- After submission, I'll review it, decide the points and close it. It may take a few days to happen.
 
 ## Types of bugs
 
