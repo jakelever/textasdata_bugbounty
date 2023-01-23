@@ -2,6 +2,8 @@
 
 This GitHub repo is used to track bug reports for the materials for the Text As Data course.
 
+Please note that the exact scoring and rules may change during the semester (to deal with unexpected issues or types of bugs).
+
 ## Submission process
 
 - Check that your issue hasn't already been reported by searching the issues on the [Issues](https://github.com/jakelever/textasdata_bugbounty/issues) page.
@@ -18,7 +20,7 @@ Bugs can be spelling mistakes, conceptual mistakes, coding mistakes in the lectu
 
 ## Judgements
 
-About weekly, open issues will be reviewed and judgements made. You will only get points if you are the first to report it. Points will be based roughly on the table below and judgements are final.
+About weekly, open issues will be reviewed and judgements made. You will only get points if you are the first to report it. Points will be based roughly on the table below.
 
 | bug type   | points |
 |------------|--------|
