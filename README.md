@@ -7,6 +7,7 @@ Please note that the exact scoring and rules may change during the semester (to 
 ## Submission process
 
 - Check that your issue hasn't already been reported by searching the issues on the [Issues](https://github.com/jakelever/textasdata_bugbounty/issues) page.
+- Check the latest version of the slides, labs, etc (from the Moodle) in case it has been fixed
 - Create an issue on the [Issues](https://github.com/jakelever/textasdata_bugbounty/issues) page
 - Put in a useful title
 - Put enough detail in the description to clearly describe what the `bug` is.
