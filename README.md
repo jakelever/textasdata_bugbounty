@@ -31,4 +31,12 @@ About weekly, open issues will be reviewed and judgements made. You will only ge
 
 ## Leaderboard
 
-TODO: Create a leaderboard automatically from GitHub issue reports.
+| user           |   points |
+|:---------------|---------:|
+| angelangweihan |        7 |
+| Franckevicius  |        5 |
+| chloeyeo       |        4 |
+| SamSJackson    |        3 |
+| hara82         |        2 |
+| gyr1967        |        1 |
+| Ieuz           |        1 |
