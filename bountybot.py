@@ -61,18 +61,20 @@ def createLeaderboard(issues_with_comments, scorer):
         issue_with_comments = issues_with_comments[issue_id]
 
         if issue_with_comments['state'] == 'closed':
-            scorer_comments = [ c for c in issues_with_comments[issue_id]['comments'] if c['user'] == scorer ]
-            last_scorer_comment = scorer_comments[-1]
-
-            points_mentions = points_regex.findall(last_scorer_comment['text'])
-            assert len(points_mentions) <= 1, f"Found >1 points mentions for {issue_id=} in {last_scorer_comment['text']}"
-
             user = issue_with_comments['user']
             points = 0
-            
-            if len(points_mentions) == 1:
-                points = int(points_mentions[0])
-                scores[user] += points
+
+            scorer_comments = [ c for c in issues_with_comments[issue_id]['comments'] if c['user'] == scorer ]
+
+            if len(scorer_comments) > 0:
+                last_scorer_comment = scorer_comments[-1]
+
+                points_mentions = points_regex.findall(last_scorer_comment['text'])
+                assert len(points_mentions) <= 1, f"Found >1 points mentions for {issue_id=} in {last_scorer_comment['text']}"
+                
+                if len(points_mentions) == 1:
+                    points = int(points_mentions[0])
+                    scores[user] += points
             
             print(f"Issue {issue_id}: {points} to {user}")
         else:
