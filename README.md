@@ -41,4 +41,6 @@ About weekly, open issues will be reviewed and judgements made. You will only ge
 | gyr1967         |        2 |
 | hara82          |        2 |
 | JakeTrevor      |        2 |
+| KangarooWasp    |        2 |
 | Ieuz            |        1 |
+| Lianahehe       |        1 |
