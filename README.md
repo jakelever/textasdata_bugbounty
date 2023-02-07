@@ -31,12 +31,14 @@ About weekly, open issues will be reviewed and judgements made. You will only ge
 
 ## Leaderboard
 
-| user           |   points |
-|:---------------|---------:|
-| angelangweihan |        7 |
-| Franckevicius  |        5 |
-| chloeyeo       |        4 |
-| SamSJackson    |        3 |
-| hara82         |        2 |
-| gyr1967        |        1 |
-| Ieuz           |        1 |
+| user            |   points |
+|:----------------|---------:|
+| AnimatorOfSouls |       12 |
+| Franckevicius   |        9 |
+| angelangweihan  |        7 |
+| SamSJackson     |        4 |
+| chloeyeo        |        4 |
+| gyr1967         |        2 |
+| hara82          |        2 |
+| JakeTrevor      |        2 |
+| Ieuz            |        1 |
