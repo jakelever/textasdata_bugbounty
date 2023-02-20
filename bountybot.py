@@ -16,11 +16,11 @@ def getPagedGithubData(base_url):
     while True:
         issues_comments_url = f'{base_url}{combiner}per_page={per_page}&page={page}'
         r = requests.get(issues_comments_url)
-        assert r.status_code == 200, f"Error with {issues_comments_url=}"
+        assert r.status_code == 200, f"Error ({r.status_code=}) with {issues_comments_url=}"
         results_on_page = r.json()
         results += results_on_page
         
-        if len(results) < per_page:
+        if len(results_on_page) < per_page:
             break
             
         page += 1
