@@ -33,9 +33,9 @@ About weekly, open issues will be reviewed and judgements made. You will only ge
 
 | user            |   points |
 |:----------------|---------:|
-| Franckevicius   |       13 |
+| angelangweihan  |       18 |
+| Franckevicius   |       14 |
 | AnimatorOfSouls |       12 |
-| angelangweihan  |       11 |
 | SamSJackson     |        4 |
 | chloeyeo        |        4 |
 | gyr1967         |        2 |
