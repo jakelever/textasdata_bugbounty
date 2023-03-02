@@ -33,12 +33,13 @@ About weekly, open issues will be reviewed and judgements made. You will only ge
 
 | user            |   points |
 |:----------------|---------:|
-| angelangweihan  |       28 |
+| angelangweihan  |       29 |
 | Franckevicius   |       27 |
 | AnimatorOfSouls |       12 |
+| gyr1967         |        7 |
+| DanielVenter    |        5 |
 | SamSJackson     |        4 |
 | chloeyeo        |        4 |
-| gyr1967         |        2 |
 | hara82          |        2 |
 | JakeTrevor      |        2 |
 | KangarooWasp    |        2 |
