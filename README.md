@@ -31,4 +31,7 @@ About weekly, open issues will be reviewed and judgements made. You will only ge
 
 ## Leaderboard
 
-No submissions yet
+| user       |   points |
+|:-----------|---------:|
+| MrSpuddy   |        1 |
+| JacksonDam |        1 |
