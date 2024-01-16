@@ -1,6 +1,8 @@
 #!/bin/bash
 set -euxo pipefail
 
+git pull
+
 python bountybot.py | tee bounty_output.txt
 
 TOTALPOINTS=$(cat bounty_output.txt | grep "Total Points" | cut -f 4 -d ' ')
