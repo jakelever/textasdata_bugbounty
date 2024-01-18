@@ -33,5 +33,6 @@ About weekly, open issues will be reviewed and judgements made. You will only ge
 
 | user       |   points |
 |:-----------|---------:|
-| MrSpuddy   |        1 |
-| JacksonDam |        1 |
+| JacksonDam |        8 |
+| ezad99     |        5 |
+| MrSpuddy   |        2 |
