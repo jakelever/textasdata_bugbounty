@@ -31,8 +31,9 @@ About weekly, open issues will be reviewed and judgements made. You will only ge
 
 ## Leaderboard
 
-| user       |   points |
-|:-----------|---------:|
-| JacksonDam |        8 |
-| ezad99     |        5 |
-| MrSpuddy   |        2 |
+| user          |   points |
+|:--------------|---------:|
+| JacksonDam    |       19 |
+| MrSpuddy      |        5 |
+| JahanKoninger |        5 |
+| ezad99        |        5 |
