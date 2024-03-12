@@ -33,7 +33,7 @@ About weekly, open issues will be reviewed and judgements made. You will only ge
 
 | user          |   points |
 |:--------------|---------:|
-| JacksonDam    |       83 |
+| JacksonDam    |       87 |
 | MrSpuddy      |       19 |
 | GoldenZs3     |        6 |
 | JahanKoninger |        5 |
