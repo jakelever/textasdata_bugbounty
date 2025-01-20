@@ -31,4 +31,7 @@ About weekly, open issues will be reviewed and judgements made. You will only ge
 
 ## Leaderboard
 
-Leaderboard will go here
+| user         |   points |
+|:-------------|---------:|
+| mrktrnbll    |        3 |
+| BattmannWann |        1 |
