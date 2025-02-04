@@ -31,7 +31,9 @@ About weekly, open issues will be reviewed and judgements made. You will only ge
 
 ## Leaderboard
 
-| user         |   points |
-|:-------------|---------:|
-| mrktrnbll    |        3 |
-| BattmannWann |        1 |
+| user           |   points |
+|:---------------|---------:|
+| Saltssaumure   |        6 |
+| mrktrnbll      |        4 |
+| BattmannWann   |        1 |
+| EdoardoLuciani |        1 |
