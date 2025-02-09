@@ -33,7 +33,9 @@ About weekly, open issues will be reviewed and judgements made. You will only ge
 
 | user           |   points |
 |:---------------|---------:|
+| Ray-Gi         |        8 |
 | Saltssaumure   |        6 |
-| mrktrnbll      |        4 |
-| BattmannWann   |        1 |
+| mrktrnbll      |        5 |
+| BattmannWann   |        3 |
 | EdoardoLuciani |        1 |
+| GavAng         |        1 |
