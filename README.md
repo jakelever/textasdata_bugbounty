@@ -31,11 +31,14 @@ About weekly, open issues will be reviewed and judgements made. You will only ge
 
 ## Leaderboard
 
-| user           |   points |
-|:---------------|---------:|
-| Ray-Gi         |        8 |
-| Saltssaumure   |        6 |
-| mrktrnbll      |        5 |
-| BattmannWann   |        3 |
-| EdoardoLuciani |        1 |
-| GavAng         |        1 |
+| user                 |   points |
+|:---------------------|---------:|
+| Ray-Gi               |       10 |
+| Saltssaumure         |        6 |
+| mrktrnbll            |        5 |
+| Lewism1404           |        5 |
+| BattmannWann         |        3 |
+| GavAng               |        2 |
+| EdoardoLuciani       |        1 |
+| aamukta-d            |        1 |
+| julianacristinagreen |        1 |
